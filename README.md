@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leara0
+- 👋 Hi, I’m Arael Seher
 - 👀 I’m interested in learning full stack coding. Oh and also yoga and art
 - 🌱 I’m currently learning C#
 - 📫 How to reach me ... a.seher.85@gmail.com
